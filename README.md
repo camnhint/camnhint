@@ -1,46 +1,47 @@
 # 👋 Hello! I'm Nguyễn Thị Cẩm Nhi
 
-- 🌟 **Một người yêu thích việc chia sẻ kiến thức và khám phá dữ liệu.**
-- 📊 **Đam mê làm việc với Data và ứng dụng AI trong kinh doanh.** ❤️
-- 🎓 **Sinh viên năm cuối tại Trường Đại học Kinh tế - Đại học Đà Nẵng.**
+- 🌟 **Đam mê học hỏi kiến thức và khám phá dữ liệu.**
+- 📊 **Yêu thích làm việc với Data và ứng dụng AI trong kinh doanh.** ❤️
+- 🎓 **Sinh viên năm cuối chuyên ngành Quản trị Hệ thống Thông tin tại trường Đại học Kinh tế - Đại học Đà Nẵng.**
 
 ---
 
 ## 👩‍💻 Kỹ năng và lĩnh vực quan tâm
 
-- 🧠 **Trí tuệ nhân tạo (AI)**: Phân tích dữ liệu, học máy (Machine Learning).
+- 🧠 **Trí tuệ nhân tạo (AI)**: Phân tích dữ liệu, Học máy (Machine Learning).
 - 🗂️ **Xử lý dữ liệu**: Python, SQL.
+- 🛠️ **Kiểm thử phần mềm (Software Testing)**.
+- 📈 **Phân tích nghiệp vụ (Business Analyst)**.
 
 ---
 
 ## 🔎 Đang học và phát triển
 
-- 📘 Kỹ thuật phân tích dữ liệu và trực quan hóa.
-- 🚀 Xây dựng các dự án AI ứng dụng thực tế.
-- 💡 Thực hành phát triển giao diện người dùng chuyên nghiệp.
+- 📘 Phân tích dữ liệu và trực quan hóa thông tin.
+- 🚀 Xây dựng các dự án AI ứng dụng trong đời sống.
+- 💡 Trau dồi kỹ năng kiểm thử phần mềm và phân tích nghiệp vụ.
 
 ---
 
 ## 🧑‍🏫 Các dự án đã làm
 
-- 🖋️ **Nhận diện chữ số viết tay**: Sử dụng AI để nhận diện các con số viết tay.  
+- 🖋️ **Nhận diện chữ số viết tay**: Dự án sử dụng AI để nhận diện các con số viết tay, ứng dụng trong lĩnh vực giáo dục và tự động hóa.  
   [GitHub Link](https://github.com/camnhint/AI4Business)
 
 ---
 
 ## 🌟 Mục tiêu tương lai
 
-- 💻 Nâng cao khả năng lập trình, phát triển ứng dụng dựa trên dữ liệu.
-- 🧩 Tham gia các dự án thực tế, tạo ra giá trị cho cộng đồng.
-- 🤝 Kết nối và cộng tác với những người cùng đam mê.
+- 💻 Tiếp tục phát triển kỹ năng lập trình và xử lý dữ liệu.
+- 🧩 Tham gia các dự án thực tế, mang lại giá trị cho cộng đồng.
+- 🤝 Mở rộng mạng lưới và hợp tác với những người cùng chung chí hướng.
 
 ---
 
 ## 📬 Kết nối với tôi
 
-- 📧 Email: nhicam751@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/nhi-c%E1%BA%A9m-133b04302/
-
+- 📧 **Email**: [nhicam751@gmail.com](mailto:nhicam751@gmail.com)
+- 🌐 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nhi-c%E1%BA%A9m-133b04302)
 
 ---
 
