@@ -17,24 +17,29 @@
 
 ## 🔎 Đang học và phát triển
 
-- 📘 Phân tích dữ liệu và trực quan hóa thông tin.
-- 🚀 Xây dựng các dự án AI ứng dụng trong đời sống.
-- 💡 Trau dồi kỹ năng kiểm thử phần mềm và phân tích nghiệp vụ.
+- 📘 **Phân tích dữ liệu và trực quan hóa thông tin.**
+- 🚀 **Xây dựng các dự án AI ứng dụng trong đời sống.**
+- 💡 **Trau dồi kỹ năng kiểm thử phần mềm và phân tích nghiệp vụ.**
 
 ---
 
 ## 🧑‍🏫 Các dự án đã làm
 
-- 🖋️ **Nhận diện chữ số viết tay**: Dự án sử dụng AI để nhận diện các con số viết tay, ứng dụng trong lĩnh vực giáo dục và tự động hóa.  
+- 🖋️ **Nhận diện chữ số viết tay**:  
+  Sử dụng AI để nhận diện các con số viết tay, ứng dụng trong lĩnh vực giáo dục và tự động hóa.  
   [GitHub Link](https://github.com/camnhint/AI4Business)
+  
+- 🗃️ **Quản trị cơ sở dữ liệu**:  
+  Dự án môn học, tập trung vào thiết kế và quản trị cơ sở dữ liệu.  
+  [GitHub Link](https://github.com/camnhint/QuanTriCSDL)
 
 ---
 
 ## 🌟 Mục tiêu tương lai
 
-- 💻 Tiếp tục phát triển kỹ năng lập trình và xử lý dữ liệu.
-- 🧩 Tham gia các dự án thực tế, mang lại giá trị cho cộng đồng.
-- 🤝 Mở rộng mạng lưới và hợp tác với những người cùng chung chí hướng.
+- 💻 **Nâng cao kỹ năng lập trình và xử lý dữ liệu.**
+- 🧩 **Tham gia các dự án thực tế, mang lại giá trị cho cộng đồng.**
+- 🤝 **Mở rộng mạng lưới và hợp tác với những người cùng chung chí hướng.**
 
 ---
 
