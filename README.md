@@ -46,7 +46,7 @@
 ## 📬 Kết nối với tôi
 
 - 📧 **Email**: [nhicam751@gmail.com](mailto:nhicam751@gmail.com)
-- 🌐 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nhi-c%E1%BA%A9m-133b04302)
+- 🌐 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/camnhint/)
 
 ---
 
