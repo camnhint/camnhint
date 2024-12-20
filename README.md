@@ -2,7 +2,7 @@
 
 - 🌟 **Đam mê học hỏi kiến thức và khám phá dữ liệu.**
 - 📊 **Yêu thích làm việc với Data và ứng dụng AI trong kinh doanh.** ❤️
-- 🎓 **Sinh viên năm cuối chuyên ngành Quản trị Hệ thống Thông tin tại trường Đại học Kinh tế - Đại học Đà Nẵng.**
+- 🎓 **Sinh viên năm 3 chuyên ngành Quản trị Hệ thống Thông tin tại trường Đại học Kinh tế - Đại học Đà Nẵng.**
 
 ---
 
