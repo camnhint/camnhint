@@ -32,7 +32,7 @@
 - 🗃️ **Quản trị cơ sở dữ liệu**:  
   Dự án môn học, tập trung vào thiết kế và quản trị cơ sở dữ liệu.  
   [GitHub Link](https://github.com/camnhint/QuanTriCSDL)
-  Phân tích và thiết kế hệ thống thông tin
+- Phân tích và thiết kế hệ thống thông tin
   Dự án môn học, đề tài: Hệ thống quản lý nhân sự
   Tập trung vào thiết kế hệ thống quản lý nhân sự.
   
