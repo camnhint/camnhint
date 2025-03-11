@@ -28,6 +28,7 @@
 - Mô tả: Sử dụng AI để nhận diện chữ số viết tay, ứng dụng trong giáo dục và tự động hóa.
 - [GitHub Link](https://github.com/camnhint/AI4Business)
 # 2️⃣ Quản trị cơ sở dữ liệu
+- Đề tài: Hệ thống quản lý nhân sự
 - Mô tả: Dự án môn học, tập trung vào thiết kế và quản trị cơ sở dữ liệu.
 - [GitHub Link](https://github.com/camnhint/QuanTriCSDL)
 # 3️⃣ Phân tích và thiết kế hệ thống thông tin
