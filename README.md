@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Kỹ năng và lĩnh vực quan tâm
 
-- 🧠 **Trí tuệ nhân tạo (AI)**: Phân tích dữ liệu, Học máy (Machine Learning).
+- 🧠 **Phân tích dữ liệu.
 - 🗂️ **Xử lý dữ liệu**: Python, SQL.
 - 🛠️ **Kiểm thử phần mềm (Software Testing)**.
 - 📈 **Phân tích nghiệp vụ (Business Analyst)**.
