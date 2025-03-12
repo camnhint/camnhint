@@ -24,7 +24,7 @@
 ## 🧑‍🏫 Dự án đã thực hiện
 # 1️⃣ Trí tuệ nhân tạo trong kinh doanh
 - Đề tài: Nhận diện chữ số viết tay
-- Mô tả: Sử dụng AI để nhận diện chữ số viết tay, ứng dụng trong giáo dục và tự động hóa.
+- Mô tả: Sử dụng AI để nhận diện chữ số viết tay, ứng dụng trong nhiều lĩnh vực. 
 - [GitHub Link](https://github.com/camnhint/AI4Business)
 # 2️⃣ Quản trị cơ sở dữ liệu
 - Đề tài: Hệ thống quản lý nhân sự
@@ -32,7 +32,7 @@
 - [GitHub Link](https://github.com/camnhint/QuanTriCSDL)
 # 3️⃣ Phân tích và thiết kế hệ thống thông tin
 - Đề tài: Hệ thống quản lý nhân sự.
-- Mô tả: Thiết kế hệ thống quản lý nhân sự, tập trung vào phân tích và lập mô hình dữ liệu.
+- Mô tả: Thiết kế hệ thống quản lý nhân sự, tập trung vào phân tích và thiết kế hệ thống
 - [GitHub Link](https://github.com/camnhint/PTTKHTTT)
 
 
