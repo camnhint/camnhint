@@ -1,14 +1,13 @@
 # 👋 Hello! I'm Nguyễn Thị Cẩm Nhi
 
 - 🌟 **Đam mê học hỏi kiến thức và khám phá dữ liệu.**
-- 📊 **Yêu thích làm việc với Data và ứng dụng AI trong kinh doanh.** ❤️
 - 🎓 **Sinh viên năm 3 chuyên ngành Quản trị Hệ thống Thông tin tại trường Đại học Kinh tế - Đại học Đà Nẵng.**
 
 ---
 
 ## 👩‍💻 Kỹ năng và lĩnh vực quan tâm
 
-- 🧠 **Phân tích dữ liệu.
+- 🧠 **Phân tích dữ liệu**.
 - 🗂️ **Xử lý dữ liệu**: Python, SQL.
 - 🛠️ **Kiểm thử phần mềm (Software Testing)**.
 - 📈 **Phân tích nghiệp vụ (Business Analyst)**.
@@ -18,7 +17,7 @@
 ## 🔎 Đang học và phát triển
 
 - 📘 **Phân tích dữ liệu và trực quan hóa thông tin.**
-- 🚀 **Xây dựng các dự án AI ứng dụng trong đời sống.**
+- 🚀 **Xây dựng các dự án ứng dụng trong đời sống.**
 - 💡 **Trau dồi kỹ năng kiểm thử phần mềm và phân tích nghiệp vụ.**
 
 ---
