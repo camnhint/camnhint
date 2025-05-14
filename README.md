@@ -16,4 +16,5 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=draw.io&logoColor=white)
 ![BPMN.io](https://img.shields.io/badge/BPMN.io-0082CA?style=flat&logo=bpmn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
