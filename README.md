@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nhi!
 
-🎓 A third-year student at **University of Economics - University of Danang**  
+🎓 A final-year student at **University of Economics - University of Danang**  
 🚀 Currently looking for an **internship opportunity** in the tech industry to enhance my skills and gain real-world experience.
 
 ## 🌐 Socials  
