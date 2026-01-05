@@ -17,4 +17,6 @@
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=draw.io&logoColor=white)
 ![BPMN.io](https://img.shields.io/badge/BPMN.io-0082CA?style=flat&logo=bpmn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
